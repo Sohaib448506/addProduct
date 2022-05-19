@@ -1,0 +1,10 @@
+td {
+  padding: 5px 35px;
+  text-align: center;
+}
+table {
+  margin: auto;
+}
+.stockTable {
+  overflow: auto;
+}
